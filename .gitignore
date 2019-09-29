@@ -130,5 +130,6 @@ runs
 examples/runs
 
 # data
+glue_data
 pa_data
 serialization_dir
